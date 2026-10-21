@@ -76,7 +76,3 @@ Tingginya churn di Germany tidak dijelaskan oleh usia, keaktifan, gender, jumlah
 - Membuat model prediksi churn (misalnya regresi logistik) tanpa kolom komplain
 - Membuat dashboard di Power BI atau Looker Studio
 - Menambah analisis SQL untuk pertanyaan yang sama
-
-## Penulis
-
-Nama Anda | [LinkedIn](https://linkedin.com/in/username-anda) | email@anda.com
